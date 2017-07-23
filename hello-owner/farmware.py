@@ -19,4 +19,5 @@ send_message = {
     }
   ]
 }
+
 print(os.environ['BEGIN_CELERYSCRIPT'] + json.dumps(send_message))
