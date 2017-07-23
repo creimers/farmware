@@ -1,0 +1,12 @@
+{
+ "package": "Hello Owner",
+ "language": "python",
+ "author": "Christoph Reimers",
+ "description": "Promts a little 'hello owner' in the toast channel",
+ "version": "0.0.1",
+ "min_os_version_major": 3,
+ "url": "https://raw.githubusercontent.com/creimers/farmware/master/hello-owner/manifest.json",
+ "zip": "https://github.com/creimers/farmware/archive/master.zip",
+ "executable": "python",
+ "args": ["hello-owner/farmware.py"]
+}
